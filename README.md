@@ -10,15 +10,12 @@
 
 - Programador de Sistemas
   <p>Entidade Promotora: Serviço Nacional de Aprendizagem Comercial (SENAC)</p>
-  Período: 04/2017 a 07/2017
   
 - Certificação Linux – LPI nível 1 – Exame 101
   <p>Entidade Promotora: Serviço Nacional de Aprendizagem Comercial (SENAC)</p>
-  Período: 01/08/2017 a 22/08/2017
   
 - Hardware – Montagem e Manutenção de Computadores
   <p>Entidade Promotora: Serviço Nacional de Aprendizagem Comercial (SENAC)</p>
-  Período: 08/2017 a 10/2017
   
 ### ⚙️ Tecnologias:
 
