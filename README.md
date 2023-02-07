@@ -9,13 +9,13 @@
 ### 📖 Atividades extracurriculares:
 
 - Programador de Sistemas
-  <p>Entidade Promotora: Serviço Nacional de Aprendizagem Comercial (SENAC)</p>
+  <p>Entidade Promotora: SENAC MG</p>
   
 - Certificação Linux – LPI nível 1 – Exame 101
-  <p>Entidade Promotora: Serviço Nacional de Aprendizagem Comercial (SENAC)</p>
+  <p>Entidade Promotora: SENAC MG</p>
   
 - Hardware – Montagem e Manutenção de Computadores
-  <p>Entidade Promotora: Serviço Nacional de Aprendizagem Comercial (SENAC)</p>
+  <p>Entidade Promotora: SENAC MG</p>
   
 ### ⚙️ Tecnologias:
 
