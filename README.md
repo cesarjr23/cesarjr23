@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarjr23&color=yellow" alt="Profile views" /> </p>
 
-### 💻 Cursando Sistemas para a Internet (IFSMG)
+### 💻 Cursando Sistemas para a Internet (IFMG)
 
 ### 📖 Atividades extracurriculares:
 
