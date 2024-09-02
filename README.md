@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarjr23&color=yellow" alt="Profile views" /> </p>
 
-### 💻 Graduando Sistemas para a Internet (IFMG)
+### 💻 Graduando Sistemas de informação (FUMEC)
 
 ### 📖 Atividades extracurriculares:
 
