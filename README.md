@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarjr23&color=yellow" alt="Profile views" /> </p>
 
-### 💻 Graduando Engenharia de Software (FUMEC)
+### 💻 Graduando Engenharia de Software (UNICESUMAR)
 ### 💻 Cursando Técnico em Informática para a Internet (IFSMG)
 
 ### 📖 Atividades extracurriculares:
