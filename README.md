@@ -1,5 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/cesarjr23/a52ba0436fdb4b998ffaf721e03a4c63/raw/7de2a2e2d9ddf217913598fe4a7f1f78924db85a/githubcard.svg"/>
-
 <h1 align="left"> Olá! Eu sou o Júlio César! 👋 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarjr23&color=yellow" alt="Profile views" /> </p>
@@ -9,17 +7,13 @@
 
 ### 📖 Atividades extracurriculares:
 
-- Administrador de Banco de Dados
-  <p>Entidade Promotora: IFRS</p>
+- Administrador de Banco de Dados | IFRS
 
-- Programador de Sistemas
-  <p>Entidade Promotora: SENAC MG</p>
+- Programador de Sistemas | SENAC MG
   
-- Certificação Linux – LPI nível 1 – Exame 101
-  <p>Entidade Promotora: SENAC MG</p>
+- Certificação Linux – LPI nível 1 | SENAC MG
   
-- Hardware – Montagem e Manutenção de Computadores
-  <p>Entidade Promotora: SENAC MG</p>
+- Hardware – Montagem e Manutenção de Computadores | SENAC MG
   
 ### ⚙️ Tecnologias:
 
@@ -34,6 +28,6 @@
   
 ### 📱 Social: 
 
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-66a539253/)
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-66a539253/)
 
 
