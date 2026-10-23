@@ -9,7 +9,8 @@ Estudante de Engenharia de Software e Técnico em Informática para Internet.
 Interesse em desenvolvimento de software, automação de processos e soluções tecnológicas para problemas reais.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cesarjr23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-66a539253/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-66a539253/)
+
 
 </div>
 
