@@ -69,3 +69,32 @@ O projeto tem como objetivo transformar informações operacionais em indicadore
 | Banco de dados | PostgreSQL | Planejado |
 | ORM | Prisma | Planejado |
 | Versionamento | Git, GitHub | Em uso |
+
+---
+
+## Formação acadêmica
+
+**Engenharia de Software**  
+UNICESUMAR — Em andamento
+
+**Técnico em Informática para Internet**  
+Instituto Federal Sudeste de Minas Gerais — Em andamento
+
+---
+
+## Formação complementar
+
+| Curso | Instituição |
+|---|---|
+| Administrador de Banco de Dados | IFRS |
+| Programador de Sistemas | SENAC-MG |
+| Linux — LPI Nível 1 | SENAC-MG |
+| Hardware: Montagem e Manutenção de Computadores | SENAC-MG |
+
+---
+
+<div align="center">
+
+*Desenvolvimento de software, aprendizado contínuo e soluções para problemas reais.*
+
+</div>
