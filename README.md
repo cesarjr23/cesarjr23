@@ -1,33 +1,71 @@
-<h1 align="left"> Olá! Eu sou o Júlio César! 👋 </h1>
+ <div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarjr23&color=yellow" alt="Profile views" /> </p>
+# Júlio César
 
-### 💻 Graduando Engenharia de Software (UNICESUMAR)
-### 💻 Cursando Técnico em Informática para a Internet (IFSMG)
+### Engenharia de Software | Desenvolvimento de Sistemas
 
-### 📖 Atividades extracurriculares:
+Estudante de Engenharia de Software e Técnico em Informática para Internet.
 
-- Administrador de Banco de Dados | IFRS
+Interesse em desenvolvimento de software, automação de processos e soluções tecnológicas para problemas reais.
 
-- Programador de Sistemas | SENAC MG
-  
-- Certificação Linux – LPI nível 1 | SENAC MG
-  
-- Hardware – Montagem e Manutenção de Computadores | SENAC MG
-  
-### ⚙️ Tecnologias:
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cesarjr23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-66a539253/)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+</div>
+
+---
+
+## Sobre mim
+
+Sou estudante de **Engenharia de Software na UNICESUMAR** e do curso **Técnico em Informática para Internet no IF Sudeste MG**.
+
+Neste espaço compartilho projetos pessoais, atividades acadêmicas e minha evolução no desenvolvimento de software.
+
+Tenho interesse especial em aplicações web, automação, banco de dados e sistemas de gestão.
+
+## Tecnologias e ferramentas
+
+### Linguagens, frameworks e banco de dados
+
+<img src="https://skillicons.dev/icons?i=c,python,js,ts,html,css,react,vite,nodejs,express,prisma,mysql,postgres&theme=light&perline=9" alt="C, Python, JavaScript, TypeScript, HTML, CSS, React, Vite, Node.js, Express, Prisma, MySQL e PostgreSQL" />
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub e VS Code" />
+
+Também utilizo Portugol e Visualg em atividades de lógica de programação.
 
 
-  
-### 📱 Social: 
+---
 
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-66a539253/)
+## Projetos em destaque
 
+### VERTIS — Gestão e Inteligência Operacional
 
+**Status:** Em desenvolvimento
+
+O **VERTIS** é um sistema de gestão operacional desenvolvido para facilitar o acompanhamento de equipes, análise de produtividade, controle de indicadores e apoio à tomada de decisões.
+
+O projeto tem como objetivo transformar informações operacionais em indicadores claros e acessíveis, proporcionando maior eficiência no acompanhamento das atividades.
+
+**Principais funcionalidades do projeto:**
+
+- Dashboards de acompanhamento operacional
+- Gestão de colaboradores e equipes
+- Indicadores de qualidade e produtividade
+- Rankings individuais e comparativos de desempenho
+- Programação mensal de atividades
+- Acompanhamento da execução de serviços
+- Histórico de indicadores e resultados
+- Exportação de relatórios em Excel e PDF
+- Controle de acesso por perfis de usuários
+
+#### Arquitetura tecnológica
+
+| Camada | Tecnologias | Situação |
+|---|---|---|
+| Frontend | React, TypeScript, Vite | Em desenvolvimento |
+| Backend e API | Node.js, Express | Planejado |
+| Banco de dados | PostgreSQL | Planejado |
+| ORM | Prisma | Planejado |
+| Versionamento | Git, GitHub | Em uso |
