@@ -33,7 +33,6 @@ Tenho interesse especial em aplicações web, automação, banco de dados e sist
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub e VS Code" />
 
-Também utilizo Portugol e Visualg em atividades de lógica de programação.
 
 
 ---
