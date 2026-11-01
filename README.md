@@ -87,6 +87,7 @@ Instituto Federal Sudeste de Minas Gerais — Em andamento
 | Curso | Instituição |
 |---|---|
 | Administrador de Banco de Dados | IFRS |
+| Programação Web | IFRS |
 | Programador de Sistemas | SENAC-MG |
 | Linux — LPI Nível 1 | SENAC-MG |
 | Hardware: Montagem e Manutenção de Computadores | SENAC-MG |
